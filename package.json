@@ -1,0 +1,15 @@
+{
+  "name": "newtest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "area.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "NewTest"
+  },
+  "author": "Juha Kautto",
+  "license": "ISC"
+}
